@@ -8,7 +8,6 @@
   	<filter-name>struts2</filter-name>
   	<filter-class>org.apache.struct2.dispatcher.ng.filter.StructsPrepareAndExecuteFilter</filter-class>
   </filer>
-
   <filter-mapping>
   	<filter-name>struts2</filter-name>
   	<url-pattern>/*</url-pattern>
